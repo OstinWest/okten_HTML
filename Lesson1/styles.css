@@ -1,3 +1,20 @@
-p {
-    font-size: 21px;
+body{
+    background: rosybrown;
+    color: black;
+}
+h1{
+    background: gold;
+    color: blue;
+}
+h2{
+    background: darkorange;
+    color: brown;
+}
+p{
+    background: burlywood;
+    color: firebrick;
+}
+ul > li{
+    background: aquamarine;
+    color: grey;
 }
