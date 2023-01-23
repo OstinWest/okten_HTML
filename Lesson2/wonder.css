@@ -1,0 +1,42 @@
+body, html {
+    margin: 0;
+}
+.full {
+    width: 600px;
+    height: 500px;
+    background: #ffec70;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.cell_1 {
+    width: 95%;
+    height: 33%;
+    background: #aeaef6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middle {
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+}
+.cell_2, .cell_3, .cell_4 {
+    width: 190px;
+    height: 120px;
+    background: #dbdbf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cell_5 {
+    width: 95%;
+    height: 38%;
+    background: #aeaef6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
